@@ -137,6 +137,7 @@
 // findindex()
 
 // let arr = ["Olma", "Uzum", "Nok", "Olcha", "Gilos", "Nok"]
+
 // arr.findIndex((value, index, a) => value === "Olma")
 
 // let i = arr.findLastIndex((value, index, a) => {
